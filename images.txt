@@ -3,4 +3,4 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 easychen/cookiecloud:latest
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-
+lucky
