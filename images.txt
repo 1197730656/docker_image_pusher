@@ -5,3 +5,4 @@ easychen/cookiecloud:latest
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 gdy666/lucky:latest
 xhofe/alist:latest
+deluan/navidrome:latest
