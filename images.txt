@@ -6,3 +6,4 @@ easychen/cookiecloud:latest
 gdy666/lucky:latest
 xhofe/alist:latest
 deluan/navidrome:latest
+bitwardenrs/server
