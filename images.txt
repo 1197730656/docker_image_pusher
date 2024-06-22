@@ -9,3 +9,4 @@ deluan/navidrome:latest
 linuxserver/qbittorrent:latest
 vaultwarden/server:latest
 jlesage/firefox:latest
+hslr/sun-panel:latest
