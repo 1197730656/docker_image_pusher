@@ -1,13 +1,1 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
-easychen/cookiecloud:latest
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-gdy666/lucky:latest
-xhofe/alist:latest
-deluan/navidrome:latest
-linuxserver/qbittorrent:latest
-vaultwarden/server:latest
-jlesage/firefox:latest
-hslr/sun-panel:latest
-chenqiyux/lan-clip:latest
+koishijs/koishi:latest
