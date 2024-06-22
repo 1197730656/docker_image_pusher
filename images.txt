@@ -10,4 +10,4 @@ linuxserver/qbittorrent:latest
 vaultwarden/server:latest
 jlesage/firefox:latest
 hslr/sun-panel:latest
-csmayi/lan-clip:latest
+chenqiyux/lan-clip:latest
