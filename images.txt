@@ -1,1 +1,2 @@
 koishijs/koishi:latest
+linuxserver/transmission:4.0.6
