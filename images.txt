@@ -1,1 +1,1 @@
-iyuucn/iyuuplus-dev:latest
+nextcloud:latest
