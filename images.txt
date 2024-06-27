@@ -1,2 +1,3 @@
 imsyy/dailyhot-api:latest
 rehiy/dailyhot:latest
+postgres
