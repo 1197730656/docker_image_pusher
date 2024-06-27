@@ -1,1 +1,1 @@
-nextcloud:latest
+imsyy/dailyhot-api:latest
