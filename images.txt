@@ -1,4 +1,1 @@
-imsyy/dailyhot-api:latest
-rehiy/dailyhot:latest
-postgres
-jellyfin/jellyfin:latest
+mysql:5.7.40
