@@ -1,1 +1,1 @@
-linuxserver/wps-office:chinese-version-2024-07-12
+halcyonazure/lsky-pro-docker
