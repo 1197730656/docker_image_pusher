@@ -1,1 +1,1 @@
-xhongc/music_tag_web
+nextcloud:latest
