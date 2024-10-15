@@ -1,1 +1,1 @@
- onlyoffice/documentserver:latest
+linuxserver/calibre-web:latest
