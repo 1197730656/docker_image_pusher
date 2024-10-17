@@ -1,1 +1,1 @@
-linuxserver/calibre-web:latest
+analogic/poste.io:latest
