@@ -1,1 +1,1 @@
-redroid/redroid:latest
+budtmo/docker-android:latest
