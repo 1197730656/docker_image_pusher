@@ -1,1 +1,1 @@
-budtmo/docker-android:latest
+linuxserver/plex:latest
