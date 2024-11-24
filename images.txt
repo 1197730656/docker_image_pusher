@@ -1,1 +1,1 @@
-linuxserver/plex:latest
+cooderl/wewe-rss-sqlite:latest
