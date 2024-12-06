@@ -1,1 +1,1 @@
-cooderl/wewe-rss-sqlite:latest
+hisatri/lrcapi:latest
