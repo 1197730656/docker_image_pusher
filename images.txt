@@ -1,1 +1,1 @@
-hisatri/lrcapi:latest
+linuxserver/librespeed:latest
