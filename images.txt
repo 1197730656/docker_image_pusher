@@ -1,1 +1,1 @@
-linuxserver/librespeed:latest
+ ricwang/docker-wechat:latest
