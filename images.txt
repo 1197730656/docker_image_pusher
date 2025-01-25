@@ -1,1 +1,1 @@
-linuxserver/calibre-web:latest
+lovechen/embyserver:latest
