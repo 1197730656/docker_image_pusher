@@ -1,2 +1,1 @@
-
-amilys/embyserver:latest
+gdy666/lucky:latest
