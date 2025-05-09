@@ -1,1 +1,1 @@
-mailserver/docker-mailserver:latest
+analogic/poste.io:latest
