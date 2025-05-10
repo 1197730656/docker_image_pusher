@@ -1,1 +1,1 @@
-analogic/poste.io:latest
+privoce/vocechat-server:latest
