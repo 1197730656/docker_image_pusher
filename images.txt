@@ -1,1 +1,1 @@
-gotify/server:latest
+jiangrui1994/cloudsaver:latest
