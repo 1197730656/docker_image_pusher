@@ -1,1 +1,1 @@
-gotify/server
+gotify/server:latest
