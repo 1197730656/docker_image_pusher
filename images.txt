@@ -1,1 +1,1 @@
-jiangrui1994/cloudsaver:latest
+dreamacro/clash:latest
