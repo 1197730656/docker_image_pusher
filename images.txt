@@ -1,1 +1,1 @@
-deluan/navidrome:latest
+jxxghp/moviepilot:latest
