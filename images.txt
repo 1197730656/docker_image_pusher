@@ -1,1 +1,1 @@
-jxxghp/moviepilot-v2:latest
+ddsderek/wxchat:latest
