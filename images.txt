@@ -1,1 +1,1 @@
-ddsderek/wxchat:latest
+ghcr.io/jeffvli/feishin:latest
