@@ -1,1 +1,1 @@
-ignisda/ryot:v8
+postgres:latest  
