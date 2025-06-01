@@ -1,1 +1,1 @@
-bonukai/mediatracker:latest
+postgres:16-alpine:latest
