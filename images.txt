@@ -1,1 +1,1 @@
-postgres:16-alpine:latest
+ignisda/ryot:v8
