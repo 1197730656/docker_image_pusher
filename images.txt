@@ -1,1 +1,1 @@
-0nlylty/dockercopilot:latest
+alist666/alist:latest
