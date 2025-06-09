@@ -1,1 +1,1 @@
-cooderl/wewe-rss-sqlite:latest
+whyour/qinglong:debian
