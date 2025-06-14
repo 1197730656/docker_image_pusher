@@ -1,1 +1,1 @@
-alliot/alist:latest
+ghcr.io/openlistteam/openlist-git:main
