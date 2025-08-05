@@ -1,1 +1,1 @@
-ghcr.io/openlistteam/openlist-git:main
+gdy666/lucky:latest
