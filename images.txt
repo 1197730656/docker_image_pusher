@@ -1,1 +1,1 @@
-openlistteam/openlist:latest
+jxxghp/moviepilot-v2
