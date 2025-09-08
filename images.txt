@@ -1,1 +1,1 @@
-jxxghp/moviepilot-v2
+jxxghp/moviepilot-v2:latest
