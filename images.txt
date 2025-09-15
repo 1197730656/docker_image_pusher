@@ -1,1 +1,1 @@
-jxxghp/moviepilot-v2:latest
+docker.io/library/mongo:4.4
