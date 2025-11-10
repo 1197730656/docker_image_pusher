@@ -1,1 +1,1 @@
-synctvorg/synctv
+openlistteam/openlist:latest
