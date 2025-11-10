@@ -1,1 +1,1 @@
-xbrowsersync/api
+synctvorg/synctv
