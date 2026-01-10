@@ -1,1 +1,1 @@
-moqisoft/documentserver:9.2.1-arm64
+moqisoft/documentserver:9.2.1-amd64
