@@ -1,1 +1,1 @@
-openlistteam/openlist:latest
+moqisoft/documentserver:9.2.1-arm64
