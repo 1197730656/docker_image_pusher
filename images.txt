@@ -1,1 +1,1 @@
-moqisoft/documentserver:latest
+onlyoffice/documentserver:latest
