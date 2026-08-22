@@ -1,1 +1,1 @@
- ponphil/litepan:beta
+b3log/siyuan:latest
