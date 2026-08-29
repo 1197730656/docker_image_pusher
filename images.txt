@@ -1,1 +1,1 @@
-openlistteam/openlist:latest
+linzixuanzz/daidai-panel:latest
